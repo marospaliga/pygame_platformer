@@ -14,3 +14,5 @@ while True:
         print(f"Ticks in last second: {counter}")
         counter = 0
         start_time = time.time()
+
+#testing comment
