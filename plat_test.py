@@ -16,3 +16,5 @@ while True:
         start_time = time.time()
 
 #testing comment
+print("end of game")
+print("test")
